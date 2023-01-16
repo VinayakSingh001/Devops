@@ -1,0 +1,1 @@
+{"name":"Local: ReverseArray","url":"e:\\cpp\\Practice\\array\\ReverseArray.cpp","tests":[{"id":1651209381142,"input":"4\n1 2 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cpp\\Practice\\array\\ReverseArray.cpp","group":"local","local":true}
